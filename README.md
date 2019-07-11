@@ -8,7 +8,7 @@
 
 <img src="https://media.giphy.com/media/Y3Y7AHKxr8ccP2Difm/giphy.gif" width="500" height="500" />
 
-In order to execute the .py file successfully your python interpreter is required to had both the numpy and mpi4py packages installed.
+In order to execute the .py file successfully your python interpreter is required to have both the numpy and mpi4py packages installed.
 Run the following command in the directory of the GOL_MPI.py file:
 ```
 mpirun -n 4 python GOL_MPI.py
