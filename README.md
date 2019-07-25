@@ -1,4 +1,4 @@
-# Game of Life Parallelized 
+# Game of Life Parallelized
 
 ## Two parallelizations of the game of life 
 
