@@ -5,7 +5,7 @@
 ### One with a shared memory approach using [Open Multi-Processing (OMP)](https://www.openmp.org/)
 ### One with a message passing approach using [Message Passing Interface (MPI)](https://www.mcs.anl.gov/research/projects/mpi/) written both in C++ and Python 
 
-###[What is the game of life ?](https://en.wikipedia.org/wiki/Conway's_Game_of_Life)
+### [What is the game of life ?](https://en.wikipedia.org/wiki/Conway's_Game_of_Life)
 
 <img src="https://media.giphy.com/media/Y3Y7AHKxr8ccP2Difm/giphy.gif" width="500" height="500" />
 
