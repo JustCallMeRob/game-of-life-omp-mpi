@@ -1,10 +1,11 @@
 # Game of Life Parallelized
 
-## Two parallelizations of the game of life 
+## Two parallelizations for the game of life
 
 ### One with a shared memory approach using [Open Multi-Processing (OMP)](https://www.openmp.org/)
 ### One with a message passing approach using [Message Passing Interface (MPI)](https://www.mcs.anl.gov/research/projects/mpi/) written both in C++ and Python 
 
+[What is the game of life ?](https://www.wikipedia.com/en/Conway%27s_Game_of_Life)
 
 <img src="https://media.giphy.com/media/Y3Y7AHKxr8ccP2Difm/giphy.gif" width="500" height="500" />
 
