@@ -15,3 +15,5 @@ Run the following command in the directory of the GOL_MPI.py file:
 mpirun -n 4 python GOL_MPI.py
 ```
 Where the -n parameter tells MPI the number of processes to use for execution.
+
+Rest in peace John Horton Conway.
