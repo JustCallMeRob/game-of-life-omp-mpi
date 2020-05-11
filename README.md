@@ -1,4 +1,4 @@
-# Game of Life Parallelized
+# Conway's Game of Life Parallelized
 
 ## Two parallelizations for the game of life
 
